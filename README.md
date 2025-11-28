@@ -1,4 +1,4 @@
-# README for `test.tf`
+# README 
 
 This README explains the purpose and usage of the `test.tf` Terraform configuration located in the project root.
 
