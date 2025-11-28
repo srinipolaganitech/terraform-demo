@@ -2,7 +2,7 @@
 
 This README explains the purpose and usage of the `test.tf` Terraform configuration located in the project root.
 
-**File:** `test.tf`
+**File:** `main.tf`
 
 ## Purpose
 
